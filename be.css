@@ -1,9 +1,10 @@
- width: 100%;
+ .be {width: 100%;
 
   position: absolute;
 
   margin-top: -50vh;
-  :root {
+ }
+ :root {
 
   --space-xs: 8px;
 
